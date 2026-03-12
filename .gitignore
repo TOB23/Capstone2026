@@ -1,13 +1,12 @@
-data/raw/
-data/processed/
-outputs/
-models/
-*.grib2
-*.parquet
-*.pkl
-*.csv
+# Python environments and cache
+venv/
+env/
 __pycache__/
 .ipynb_checkpoints/
-*.pyc
-venv/
-.env
+
+# Raw and processed data
+data/
+*.csv
+*.grib2
+*.nc
+EOF
