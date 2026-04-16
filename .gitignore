@@ -10,3 +10,5 @@ data/
 *.grib2
 *.nc
 EOF
+models/*.pkl
+models/*.joblib
