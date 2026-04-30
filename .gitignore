@@ -12,4 +12,5 @@ data/
 EOF
 models/*.pkl
 models/*.joblib
+.claude
 
